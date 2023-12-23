@@ -1,0 +1,24 @@
+2023-12-19 03:36:00 [ERROR] - FluentNHibernate.Cfg.FluentConfigurationException: An invalid or incomplete configuration was used while creating a SessionFactory. Check PotentialReasons collection, and InnerException for more detail.
+
+ ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NHibernate.Connection.DriverConnectionProvider.GetConnection()
+   at NHibernate.Tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.Prepare()
+   at NHibernate.Tool.hbm2ddl.SchemaMetadataUpdater.GetReservedWords(Dialect dialect, IConnectionHelper connectionHelper)
+   at NHibernate.Tool.hbm2ddl.SchemaMetadataUpdater.Update(ISessionFactory sessionFactory)
+   at NHibernate.Impl.SessionFactoryImpl..ctor(Configuration cfg, IMapping mapping, Settings settings, EventListeners listeners)
+   at NHibernate.Cfg.Configuration.BuildSessionFactory()
+   at FluentNHibernate.Cfg.FluentConfiguration.BuildSessionFactory()
+   --- End of inner exception stack trace ---
+   at FluentNHibernate.Cfg.FluentConfiguration.BuildSessionFactory()
+   at DB.SessionFactory.CreateSessionFactory() in C:\Users\Belal\Downloads\Conquer Online\Pinthole source 5517\zfserver v2.5517\zfserver v2.5517\DB\Session Factory.cs:line 114
+   at DB.SessionFactory..ctor(String szGame, String szLogin, Boolean bConfirm) in C:\Users\Belal\Downloads\Conquer Online\Pinthole source 5517\zfserver v2.5517\zfserver v2.5517\DB\Session Factory.cs:line 69
+   at MsgServer.Database.Initialize() in C:\Users\Belal\Downloads\Conquer Online\Pinthole source 5517\zfserver v2.5517\zfserver v2.5517\MsgServer\Database.cs:line 82
+
+

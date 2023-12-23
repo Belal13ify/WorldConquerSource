@@ -1,0 +1,42 @@
+2023-12-19 02:46:09 [MESSAGE] - User [adrian] entered an invalid password [127.0.0.1].
+2023-12-19 02:49:21 [MESSAGE] - User [adrian] entered an invalid password [127.0.0.1].
+2023-12-19 02:50:27 [MESSAGE] - User [adrian] entered an invalid password [127.0.0.1].
+2023-12-19 02:50:38 [MESSAGE] - User [adrian] entered an invalid password [127.0.0.1].
+2023-12-19 02:54:48 [MESSAGE] - User [adrian] entered an invalid password [127.0.0.1].
+2023-12-19 02:55:16 [MESSAGE] - User [adrian] entered an invalid password [127.0.0.1].
+2023-12-19 02:55:32 [MESSAGE] - User [adrian] entered an invalid password [127.0.0.1].
+2023-12-19 02:55:43 [MESSAGE] - User [adrian] entered an invalid password [127.0.0.1].
+2023-12-19 02:58:39 [MESSAGE] - User [adrian] entered an invalid password [127.0.0.1].
+2023-12-19 03:36:11 [ERROR] - Could not connect to mysql server.
+2023-12-19 03:36:11 [EXCEPTION] - FluentNHibernate.Cfg.FluentConfigurationException: An invalid or incomplete configuration was used while creating a SessionFactory. Check PotentialReasons collection, and InnerException for more detail.
+
+ ---> MySql.Data.MySqlClient.MySqlException: Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NHibernate.Connection.DriverConnectionProvider.GetConnection()
+   at NHibernate.Tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.Prepare()
+   at NHibernate.Tool.hbm2ddl.SchemaMetadataUpdater.GetReservedWords(Dialect dialect, IConnectionHelper connectionHelper)
+   at NHibernate.Tool.hbm2ddl.SchemaMetadataUpdater.Update(ISessionFactory sessionFactory)
+   at NHibernate.Impl.SessionFactoryImpl..ctor(Configuration cfg, IMapping mapping, Settings settings, EventListeners listeners)
+   at NHibernate.Cfg.Configuration.BuildSessionFactory()
+   at FluentNHibernate.Cfg.FluentConfiguration.BuildSessionFactory()
+   --- End of inner exception stack trace ---
+   at FluentNHibernate.Cfg.FluentConfiguration.BuildSessionFactory()
+   at DB.SessionFactory.CreateLoginFactory() in C:\Users\Belal\Downloads\Conquer Online\Pinthole source 5517\zfserver v2.5517\zfserver v2.5517\DB\Session Factory.cs:line 126
+   at DB.SessionFactory..ctor(String szHost, Boolean bIsLogin) in C:\Users\Belal\Downloads\Conquer Online\Pinthole source 5517\zfserver v2.5517\zfserver v2.5517\DB\Session Factory.cs:line 56
+   at LoginServer.Program.ServerStartup() in C:\Users\Belal\Downloads\Conquer Online\Pinthole source 5517\zfserver v2.5517\zfserver v2.5517\LoginServer\Program.cs:line 87
+
+
+2023-12-19 05:50:04 [MESSAGE] - User [test] entered an invalid password [127.0.0.1].
+2023-12-19 05:50:28 [MESSAGE] - User [test2] entered an invalid password [127.0.0.1].
+2023-12-19 05:52:31 [MESSAGE] - User [test] entered an invalid password [127.0.0.1].
+2023-12-19 05:56:02 [MESSAGE] - User [test] entered an invalid password [127.0.0.1].
+2023-12-19 05:56:33 [MESSAGE] - User [test] entered an invalid password [127.0.0.1].
+2023-12-19 05:56:55 [MESSAGE] - User [test] entered an invalid password [127.0.0.1].
+2023-12-19 05:59:55 [MESSAGE] - User [test] entered an invalid password [127.0.0.1].
+2023-12-19 06:02:39 [MESSAGE] - User [test] entered an invalid password [127.0.0.1].

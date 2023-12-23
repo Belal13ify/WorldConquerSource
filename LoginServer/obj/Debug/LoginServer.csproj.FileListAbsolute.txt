@@ -1,0 +1,45 @@
+C:\Users\Felipe Vieira\Dropbox\zfserver\zfserver v2.5517\LoginServer\bin\Debug\LoginServer.exe.config
+C:\Users\Felipe Vieira\Dropbox\zfserver\zfserver v2.5517\LoginServer\obj\Debug\LoginServer.exe
+C:\Users\Felipe Vieira\Dropbox\zfserver\zfserver v2.5517\LoginServer\obj\Debug\LoginServer.pdb
+C:\Users\Felipe Vieira\Dropbox\zfserver\zfserver v2.5517\LoginServer\bin\Debug\LoginServer.exe
+C:\Users\Felipe Vieira\Dropbox\zfserver\zfserver v2.5517\LoginServer\bin\Debug\LoginServer.pdb
+C:\Users\Felipe Vieira\Dropbox\zfserver\zfserver v2.5517\LoginServer\bin\Debug\DB.dll
+C:\Users\Felipe Vieira\Dropbox\zfserver\zfserver v2.5517\LoginServer\bin\Debug\ServerCore.dll
+C:\Users\Felipe Vieira\Dropbox\zfserver\zfserver v2.5517\LoginServer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Felipe Vieira\Dropbox\zfserver\zfserver v2.5517\LoginServer\bin\Debug\DB.pdb
+C:\Users\Felipe Vieira\Dropbox\zfserver\zfserver v2.5517\LoginServer\bin\Debug\ServerCore.pdb
+C:\Users\Felipe Vieira\Dropbox\zfserver\zfserver v2.5517\LoginServer\obj\Debug\LoginServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Dropbox\zfserver\zfserver v2.5517\LoginServer\bin\Debug\LoginServer.exe.config
+C:\Users\Administrador\Dropbox\zfserver\zfserver v2.5517\LoginServer\obj\Debug\LoginServer.exe
+C:\Users\Administrador\Dropbox\zfserver\zfserver v2.5517\LoginServer\obj\Debug\LoginServer.pdb
+C:\Users\adrian\Dropbox\zfserver\zfserver v2.5517\LoginServer\bin\Debug\LoginServer.exe.config
+C:\Users\adrian\Dropbox\zfserver\zfserver v2.5517\LoginServer\obj\Debug\LoginServer.exe
+C:\Users\adrian\Dropbox\zfserver\zfserver v2.5517\LoginServer\obj\Debug\LoginServer.pdb
+C:\Users\PrimeiroLogin\Dropbox\zfserver\zfserver v2.5517\LoginServer\bin\Debug\LoginServer.exe.config
+C:\Users\PrimeiroLogin\Dropbox\zfserver\zfserver v2.5517\LoginServer\obj\Debug\LoginServer.exe
+C:\Users\PrimeiroLogin\Dropbox\zfserver\zfserver v2.5517\LoginServer\obj\Debug\LoginServer.pdb
+C:\Users\PrimeiroLogin\Dropbox\zfserver\zfserver v2.5517\LoginServer\bin\Debug\LoginServer.exe
+C:\Users\PrimeiroLogin\Dropbox\zfserver\zfserver v2.5517\LoginServer\bin\Debug\LoginServer.pdb
+C:\Users\PrimeiroLogin\Dropbox\zfserver\zfserver v2.5517\LoginServer\bin\Debug\DB.dll
+C:\Users\PrimeiroLogin\Dropbox\zfserver\zfserver v2.5517\LoginServer\bin\Debug\ServerCore.dll
+C:\Users\PrimeiroLogin\Dropbox\zfserver\zfserver v2.5517\LoginServer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PrimeiroLogin\Dropbox\zfserver\zfserver v2.5517\LoginServer\bin\Debug\DB.pdb
+C:\Users\PrimeiroLogin\Dropbox\zfserver\zfserver v2.5517\LoginServer\bin\Debug\ServerCore.pdb
+C:\Users\PrimeiroLogin\Dropbox\zfserver\zfserver v2.5517\LoginServer\obj\Debug\LoginServer.csprojResolveAssemblyReference.cache
+C:\Users\PrimeiroLogin\Downloads\Elitepvpers Releases\zfserver v2.5517\LoginServer\bin\Debug\LoginServer.exe.config
+C:\Users\PrimeiroLogin\Downloads\Elitepvpers Releases\zfserver v2.5517\LoginServer\obj\Debug\LoginServer.exe
+C:\Users\PrimeiroLogin\Downloads\Elitepvpers Releases\zfserver v2.5517\LoginServer\obj\Debug\LoginServer.pdb
+C:\Users\Belal\Downloads\Conquer Online\Pinthole source 5517\zfserver v2.5517\zfserver v2.5517\LoginServer\bin\Debug\LoginServer.exe.config
+C:\Users\Belal\Downloads\Conquer Online\Pinthole source 5517\zfserver v2.5517\zfserver v2.5517\LoginServer\bin\Debug\LoginServer.exe
+C:\Users\Belal\Downloads\Conquer Online\Pinthole source 5517\zfserver v2.5517\zfserver v2.5517\LoginServer\bin\Debug\LoginServer.pdb
+C:\Users\Belal\Downloads\Conquer Online\Pinthole source 5517\zfserver v2.5517\zfserver v2.5517\LoginServer\bin\Debug\DB.dll
+C:\Users\Belal\Downloads\Conquer Online\Pinthole source 5517\zfserver v2.5517\zfserver v2.5517\LoginServer\bin\Debug\ServerCore.dll
+C:\Users\Belal\Downloads\Conquer Online\Pinthole source 5517\zfserver v2.5517\zfserver v2.5517\LoginServer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Belal\Downloads\Conquer Online\Pinthole source 5517\zfserver v2.5517\zfserver v2.5517\LoginServer\bin\Debug\DB.pdb
+C:\Users\Belal\Downloads\Conquer Online\Pinthole source 5517\zfserver v2.5517\zfserver v2.5517\LoginServer\bin\Debug\ServerCore.pdb
+C:\Users\Belal\Downloads\Conquer Online\Pinthole source 5517\zfserver v2.5517\zfserver v2.5517\LoginServer\obj\Debug\LoginServer.csproj.AssemblyReference.cache
+C:\Users\Belal\Downloads\Conquer Online\Pinthole source 5517\zfserver v2.5517\zfserver v2.5517\LoginServer\obj\Debug\LoginServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Belal\Downloads\Conquer Online\Pinthole source 5517\zfserver v2.5517\zfserver v2.5517\LoginServer\obj\Debug\LoginServer.csproj.CoreCompileInputs.cache
+C:\Users\Belal\Downloads\Conquer Online\Pinthole source 5517\zfserver v2.5517\zfserver v2.5517\LoginServer\obj\Debug\LoginServer.csproj.CopyComplete
+C:\Users\Belal\Downloads\Conquer Online\Pinthole source 5517\zfserver v2.5517\zfserver v2.5517\LoginServer\obj\Debug\LoginServer.exe
+C:\Users\Belal\Downloads\Conquer Online\Pinthole source 5517\zfserver v2.5517\zfserver v2.5517\LoginServer\obj\Debug\LoginServer.pdb
